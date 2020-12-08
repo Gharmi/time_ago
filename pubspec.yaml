@@ -1,5 +1,5 @@
 name: time_difference
-description: This project is to find the time elapsed from certain date and represent like Just now, 2 minutes ago and so on similar as facebook status. It takes parameter String format of DateTime. The String here is just conversion of DateTime format of DateTime.now() as DateTime.now().toString(). No necessary to convert other formats of DateTime to String because it won't work for other ones.
+description: This package helps to find the time difference from certain date/time and represents like Just now, 2 minutes ago and so on similar as facebook status. It takes parameter String format of DateTime. The String here is just conversion of DateTime format of DateTime.now() as DateTime.now().toString().
 
 
 # The following defines the version and build number for your application.
@@ -12,7 +12,7 @@ description: This project is to find the time elapsed from certain date and repr
 # In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
 # Read more about iOS versioning at
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
-version: 0.1.1
+version: 0.1.2
 homepage: https://github.com/Gharmi/time_ago
 
 environment:

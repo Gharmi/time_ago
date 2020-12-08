@@ -30,7 +30,7 @@ class MyHomePage extends StatefulWidget {
 }
 
 class _MyHomePageState extends State<MyHomePage> {
-  String minFormatter(String datetime) {
+  String timeAgo(String datetime) {
     DateTime d1 = DateTime.now();
     DateTime d2 = DateTime.parse(datetime);
 
@@ -138,7 +138,7 @@ class _MyHomePageState extends State<MyHomePage> {
 
         //This time format is the default format (2020-12-08 13:29:54.47452) of DateTime.now()
         //Store in same format and later Compare on same format
-        Text(minFormatter("2020-12-08 13:29:54.47452"))
+        Text(timeAgo("2020-12-08 13:29:54.47452"))
       ])),
     );
   }
