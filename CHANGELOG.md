@@ -1,1 +1,4 @@
-
+- Changes in publish rule
+- Adds homepage
+- Creates License file
+- Returns date difference as ago
