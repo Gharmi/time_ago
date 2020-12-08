@@ -127,8 +127,6 @@ class _MyHomePageState extends State<MyHomePage> {
 
   @override
   Widget build(BuildContext context) {
-    //var d =DateFormat.yMMMd().format(DateTime.now());
-    print(DateTime.now().toString());
     return Scaffold(
       appBar: AppBar(
         title: Text(widget.title),
