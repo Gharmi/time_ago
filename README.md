@@ -8,6 +8,6 @@ This project is to find the time elapsed from certain date and represent like Ju
 
 The String here is just conversionof DateTime format of DateTime.now() as DateTime.now().toString().
 
- No necessary to convert other formats of DateTime to String because it won't work for other ones.
+No necessary to convert other formats of DateTime to String because it won't work for other ones.
 
 
