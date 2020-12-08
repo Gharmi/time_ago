@@ -1,3 +1,4 @@
+### 0.0.1
 - Merge branch 'master' of https://github.com/Gharmi/time_ago
 - Updates changelog
 - Updates CHANGELOG.md
