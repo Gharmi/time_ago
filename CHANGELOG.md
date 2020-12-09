@@ -1,8 +1,11 @@
+### 0.1.3
+- Revise proper example
+
 ### 0.1.2
-- Function name changed
+- Changes Function name 
 
 ### 0.1.1
-- Example properly set
+- Sets Example properly
 
 ### 0.1.0
 - Example added.

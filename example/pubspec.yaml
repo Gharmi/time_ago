@@ -1,6 +1,9 @@
-name: time_difference
-description: This package helps to find the time difference from certain date/time and represents like Just now, 2 minutes ago and so on similar as facebook status. It takes parameter String format of DateTime. The String here is just conversion of DateTime format of DateTime.now() as DateTime.now().toString().
+name: time__check
+description: A new Flutter project.
 
+# The following line prevents the package from being accidentally published to
+# pub.dev using `pub publish`. This is preferred for private packages.
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
 
 # The following defines the version and build number for your application.
 # A version number is three numbers separated by dots, like 1.2.43
@@ -12,8 +15,7 @@ description: This package helps to find the time difference from certain date/ti
 # In iOS, build-name is used as CFBundleShortVersionString while build-number used as CFBundleVersion.
 # Read more about iOS versioning at
 # https://developer.apple.com/library/archive/documentation/General/Reference/InfoPlistKeyReference/Articles/CoreFoundationKeys.html
-version: 0.1.3
-homepage: https://github.com/Gharmi/time_ago
+version: 1.0.0+1
 
 environment:
   sdk: ">=2.7.0 <3.0.0"
@@ -21,7 +23,7 @@ environment:
 dependencies:
   flutter:
     sdk: flutter
-  intl: ^0.16.1
+  time_difference: ^0.1.2
 
 
   # The following adds the Cupertino Icons font to your application.
