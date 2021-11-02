@@ -1,6 +1,6 @@
 # time_difference
 
-A new Flutter project.
+Published Package on pub.dev 
 
 ## Feature of this package
 
